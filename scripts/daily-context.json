@@ -1,0 +1,47 @@
+{
+  "day": 38,
+  "date": "2026-05-31",
+  "version": "1.38.0",
+  "project_name": "x-template-038",
+  "theme": {
+    "name": "BIOLUMINOUS BAUHAUS GROVE",
+    "style": "A sophisticated fusion of dark cottagecore mystique and Bauhaus precision, rendered with ultra-modern cybernetic elements. Think glowing, geometrically structured organic forms in a deeply luxurious, shadow-rich digital landscape where digital flora intertwines with rigid architectural frameworks, bathed in ethereal luminescence.",
+    "mood": "Ethereal, Structured, Mystical, Luminescent, Precision"
+  },
+  "palette": {
+    "background": "#0D1110",
+    "surface": "#1A2420",
+    "primary": "#3D6C4A",
+    "accent": "#5CFF8C",
+    "text": "#F0F0F0",
+    "muted": "#6B8B75"
+  },
+  "typography": {
+    "heading": "Clash Display",
+    "body": "Outfit",
+    "size": "fluid-optimized-scale"
+  },
+  "layout": {
+    "structure": "deconstructed-modular-grid-with-organic-overlays",
+    "density": "dynamic-compact",
+    "border_style": "Geometric outlines with ethereal inner glows and subtle organic textural details"
+  },
+  "animation": {
+    "level": "high",
+    "style": "Bioluminescent particle trails, organic growth reveal animations, magnetic field interactions on UI elements, subtle depth-of-field shifts on scroll."
+  },
+  "components": {
+    "hero_text": "ARCANE BOTANICA",
+    "subtitle": "Unearthing digital flora within structured realms. A synthesis of organic mystique and cybernetic precision.",
+    "button_label": "SYNTHESIZE GROVES",
+    "badge_text": "BIOCYCLE_ALPHA"
+  },
+  "commit_message": "feat: UI Day 38 — Experimental Theme",
+  "source": "gemini-key1",
+  "selected_component": {
+    "category": "Cards",
+    "component": "myshy13_tender-donkey-10.html",
+    "path": "C:\\Users\\User\\Documents\\GitHub\\Axon\\x-components\\Cards\\myshy13_tender-donkey-10.html",
+    "content": "<div class=\"card\"></div>\n\n<style>\n/* Tags: card */\n.card {\n  font-family: monospace;\n  scale: 1.2;\n  height: 15em;\n  width: 20em;\n  border-radius: 0.8em;\n  background: #222;\n  overflow: hidden;\n  color: #ccc;\n\n  transition: 0.3s ease;\n  &:before {\n    content: \"User - zsh\";\n    text-align: center;\n    padding: 0.2em;\n    display: block;\n    background-color: #4e4e4e;\n  }\n  &:after {\n    content: \"User@device ~ $ \";\n    margin: 0.2em;\n  }\n  &:hover {\n    scale: 1.3;\n  }\n}\n\n</style>"
+  }
+}
